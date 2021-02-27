@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\veneu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\veneu\\.nuget\\packages"
+    ]
+  }
+}

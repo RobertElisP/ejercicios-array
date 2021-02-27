@@ -1,0 +1,13 @@
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\obj\Debug\netcoreapp3.1\Ejercicio10.csprojAssemblyReference.cache
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\obj\Debug\netcoreapp3.1\Ejercicio10.AssemblyInfoInputs.cache
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\obj\Debug\netcoreapp3.1\Ejercicio10.AssemblyInfo.cs
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\obj\Debug\netcoreapp3.1\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\bin\Debug\netcoreapp3.1\Ejercicio10.exe
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\bin\Debug\netcoreapp3.1\Ejercicio10.deps.json
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\bin\Debug\netcoreapp3.1\Ejercicio10.runtimeconfig.json
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\bin\Debug\netcoreapp3.1\Ejercicio10.runtimeconfig.dev.json
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\bin\Debug\netcoreapp3.1\Ejercicio10.dll
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\bin\Debug\netcoreapp3.1\Ejercicio10.pdb
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\obj\Debug\netcoreapp3.1\Ejercicio10.dll
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\obj\Debug\netcoreapp3.1\Ejercicio10.pdb
+C:\Users\veneu\Downloads\Ejercicios (1)\Ejercicios\Ejercicio10\obj\Debug\netcoreapp3.1\Ejercicio10.genruntimeconfig.cache
